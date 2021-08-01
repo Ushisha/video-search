@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [https://usisha-video-searching.netlify.app]https://usisha-video-searching.netlify.app)
+- Live Site URL: [https://usisha-video-searching.netlify.app](https://usisha-video-searching.netlify.app)
 
 ### Built with
 
