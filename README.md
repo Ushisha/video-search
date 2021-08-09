@@ -6,5 +6,5 @@
 
 ### Built with
 
-- YouTubr API
+- YouTube API
 - [React](https://reactjs.org/) - JS library
